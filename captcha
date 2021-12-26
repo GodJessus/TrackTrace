@@ -1,0 +1,316 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ro" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rss="http://purl.org/rss/1.0/"
+  xmlns:site="https://www.posta.md/ro/ns#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortcut icon" href="https://www.posta.md/sites/all/themes/posta_new/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Track&amp;Trace | Posta Moldovei</title>
+  <link type="text/css" rel="stylesheet" href="https://www.posta.md/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.posta.md/files/css/css_esQeAUdhVYKMMjrJgzexJQoFg4Vemmd6JxpuMywcs7U.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.posta.md/files/css/css_YxZwmdCqIo43YqXVKm8pAA_kvkVrE8r9ueHcG20PHx8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.posta.md/files/css/css_vj0ceY6ToLTbOeLrCXAT9x5H5td-Dt0rNs1DmgIm8Xs.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.posta.md/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print" />
+
+<!--[if IE 7]>
+<link type="text/css" rel="stylesheet" href="https://www.posta.md/sites/all/themes/posta_new/css/styleIE7.css?qxd4sl" media="all" />
+<![endif]-->
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+document.cookie = 'adaptive_image=' + Math.max(screen.width, screen.height) + '; path=/';
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.posta.md/files/js/js_TPRZmUmeC1mz3SQ7t4xnN3gdUVEXqJt0x0Q63NzH9Qs.js"></script>
+<script type="text/javascript" src="https://www.posta.md/files/js/js_6WjiFgvmHfmfHrKGHz-A0lTB6gHYOj0W5sdi01IZZqI.js"></script>
+<script type="text/javascript" src="https://www.posta.md/files/js/js_bJG3tnhZooJME9t4KIPJHmS6Ie6rxWNYhzfI-ONiSIc.js"></script>
+<script type="text/javascript" src="https://www.posta.md/files/js/js_lHjKBV8usUsVqzN-3dOlSgSba_utwO5-MvpGXqg1L4s.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"ro\/","ajaxPageState":{"theme":"posta_new","theme_token":"QdYQlCvBQPTZbWiujriQQjB4a_2UuRnRyQfr72N0_g8","jquery_version":"1.7","js":{"0":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"public:\/\/languages\/ro_7DS9_RvY8a-SW0Bs51xaBEcuYMqxzG4A_8YezOvBjVc.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/libraries\/jquery.selectbox\/jquery.selectBox.js":1,"sites\/all\/modules\/contrib\/selectbox\/js\/selectbox.js":1,"sites\/all\/modules\/contrib\/video\/js\/video.js":1,"sites\/all\/modules\/contrib\/captcha\/captcha.js":1,"sites\/all\/modules\/contrib\/responsive_menus\/styles\/responsive_menus_simple\/js\/responsive_menus_simple.js":1,"sites\/all\/modules\/contrib\/lang_dropdown\/lang_dropdown.js":1,"misc\/autocomplete.js":1,"sites\/all\/modules\/posta\/posta_tracking\/posta_tracking.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/colorbox_node\/colorbox_node.js":1,"sites\/all\/themes\/posta_new\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/adaptive_image\/css\/adaptive-image.css":1,"sites\/all\/modules\/contrib\/colorbox_node\/colorbox_node.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/libraries\/colorbox\/example3\/colorbox.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/jquery.selectbox\/jquery.selectBox.css":1,"sites\/all\/modules\/contrib\/video\/css\/video.css":1,"sites\/all\/modules\/contrib\/responsive_menus\/styles\/responsive_menus_simple\/css\/responsive_menus_simple.css":1,"sites\/all\/modules\/contrib\/lang_dropdown\/lang_dropdown.css":1,"sites\/all\/themes\/posta_new\/css\/style.css":1,"sites\/all\/themes\/posta_new\/css\/custom.css":1,"sites\/all\/themes\/posta_new\/css\/print.css":1,"sites\/all\/themes\/posta_new\/css\/styleIE7.css":1}},"colorbox":{"transition":"elastic","speed":"350","opacity":"0.85","slideshow":false,"slideshowAuto":true,"slideshowSpeed":"2500","slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"maxWidth":"100%","maxHeight":"","initialWidth":"100%","initialHeight":"","fixed":true,"scrolling":true,"mobiledetect":false,"mobiledevicewidth":"480px"},"responsive_menus":[{"toggler_text":"\u2630 Menu","selectors":[".header-menu"],"media_size":"768","media_unit":"px","absolute":"1","remove_attributes":"1","responsive_menus_style":"responsive_menus_simple"}],"isFrontPage":false,"urlIsAjaxTrusted":{"\/ro\/tracking\/ro\/image_captcha?sid=33246825\u0026ts=1628441428":true},"trackingIdPlaceholder":"ex.: DS0123456789RR","colorbox_node":{"width":"600px","height":"600px"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-tracking page-tracking-ro page-tracking-ro-image-captcha i18n-ro" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Mergi la conţinutul principal</a>
+  </div>
+    <div id="global-container">
+<div class="header-panel">
+  <div class="main-wrapper">
+      <div class="region region-header-panel">
+    <div id="block-block-12" class="block block-block clear-block block-contacts">
+
+    <h2>Informație de contact</h2>
+  
+  <div class="content">
+    <p class="phones">SUPORT INFORMAȚIONAL</p>
+<p class="phones">+373 22 270 044</p>
+<p class="phones">program: de luni până vineri 08:00 - 17:00</p>
+  </div>
+</div>
+  </div>
+  </div>
+</div>
+<div class="header-content">
+  <div class="main-wrapper clearfix">
+    <div class="header-right">
+        <div class="region region-search">
+    <div id="block-search-form" class="block block-search clearfix">
+
+    
+  <div class="content">
+    <form action="/ro/tracking/ro/image_captcha?sid=33246825&amp;ts=1628441428" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Formular de căutare</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Căutare </label>
+ <input title="Introduceţi termenii doriţi pentru căutare." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit--2" name="op" value="Căutare" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-vUxRYogtnrRzAzJjxpIMBxvgF-riozjTdydsvg1iW1E" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+  </div>
+        <div class="region region-language-switcher">
+    <div id="block-lang-dropdown-language" class="block block-lang-dropdown clearfix">
+
+    
+  <div class="content">
+    <form class="lang_dropdown_form language" id="lang_dropdown_form_language" action="/ro/tracking/ro/image_captcha?sid=33246825&amp;ts=1628441428" method="post" accept-charset="UTF-8"><div><div class="form-item form-type-select form-item-lang-dropdown-select">
+ <select class="lang-dropdown-select-element form-select" id="lang-dropdown-select-language" style="width:165px" name="lang_dropdown_select"><option value="ro" selected="selected">Româna</option><option value="ru">Русский</option><option value="en-gb">English</option></select>
+</div>
+<input type="hidden" name="ro" value="/ro/tracking/ro/image_captcha?sid=33246825&amp;ts=1628441428" />
+<input type="hidden" name="ru" value="/ru/tracking/ro/image_captcha?sid=33246825&amp;ts=1628441428" />
+<input type="hidden" name="en-gb" value="/en/tracking/ro/image_captcha?sid=33246825&amp;ts=1628441428" />
+<noscript><div>
+<input type="submit" id="edit-submit--3" name="op" value="Mergi" class="form-submit" />
+</div></noscript><input type="hidden" name="form_build_id" value="form-x-0Vz_q-0BJ3J0P9PMKZkDwBOIKoaccZpEnpHOBiP6c" />
+<input type="hidden" name="form_id" value="lang_dropdown_form" />
+</div></form>  </div>
+</div>
+  </div>
+    </div>
+    <div class="clear-both"></div>
+      <div class="region region-header-left">
+    <div id="block-interface-ext-logo" class="block block-interface-ext block-logo">
+
+    
+  <div class="content">
+    <p><a href="/ro" class="logo">Posta Moldovei</a></p>  </div>
+</div>
+<div id="block-system-main-menu" class="block block-system header-menu clearfix block-menu">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first collapsed menu-link-level-1"><a href="/ro/menu-link/928" class="about">Home</a></li>
+<li class="leaf menu-link-level-1"><a href="/ro/news.html">Noutăți</a></li>
+<li class="leaf menu-link-level-1"><a href="/ro/postal_code.html">Sucursale</a></li>
+<li class="collapsed menu-link-level-1"><a href="/ro/menu-link/818" class="service-tariff">Servicii</a></li>
+<li class="leaf menu-link-level-1"><a href="/ro/ems">EMS</a></li>
+<li class="leaf menu-link-level-1"><a href="http://www.curierrapid.md/" class="news" target="_blank">Curier rapid</a></li>
+<li class="leaf menu-link-level-1"><a href="http://www.pt.md/" target="_blank">Post Terminal</a></li>
+<li class="last leaf menu-link-level-1"><a href="http://www.filatelia.md/" target="_blank">Filatelia</a></li>
+</ul>  </div>
+</div>
+  </div>
+    <div class="header-services">
+        <div class="region region-header-right">
+    <div id="block-interface-ext-online-services" class="block block-interface-ext block-services expanded">
+      <h2 class="block-title">Servicii online<a href="/ro" class="icon"> </a></h2>
+  
+  <div class="content" style="display:none">
+    <form action="/ro/tracking/ro/image_captcha?sid=33246825&amp;ts=1628441428" method="post" id="posta-online-services-block-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-B5igpXYDlb4393MrvYdcl6NwHyG7Y4LOuuh3AI9mO8Y" />
+<input type="hidden" name="form_id" value="posta_online_services_block_form" />
+</div></form><form action="/ro/tracking/ro/image_captcha?sid=33246825&amp;ts=1628441428" method="post" id="interface-ext-office-form" accept-charset="UTF-8"><div><div class="service first"><div class="form-item form-type-textfield form-item-post-code">
+  <label for="edit-post-code"><a href="/ro/postal_code.html">Căutarea după cod poştal</a> </label>
+ <input type="text" id="edit-post-code" name="post_code" value="" size="60" maxlength="128" class="form-text form-autocomplete" /><input type="hidden" id="edit-post-code-autocomplete" value="https://www.posta.md/index.php?q=ro/office/code" disabled="disabled" class="autocomplete" />
+</div>
+<input class="go form-submit" type="submit" id="edit-post-code-submit" name="post_code_submit" value="go" /></div><div class="service"><div class="form-item form-type-textfield form-item-post-office">
+  <label for="edit-post-office"><a href="/ro/postal_code.html">Căutarea după adresă</a> </label>
+ <input type="text" id="edit-post-office" name="post_office" value="" size="60" maxlength="128" class="form-text form-autocomplete" /><input type="hidden" id="edit-post-office-autocomplete" value="https://www.posta.md/index.php?q=ro/office/region_id" disabled="disabled" class="autocomplete" />
+</div>
+<input class="go form-submit" type="submit" id="edit-post-office-submit" name="post_office_submit" value="go" /></div><input type="hidden" name="form_build_id" value="form-Y_ZYzd1rhbCLB9XSBBcc_IxCpTOmONbCQxscbtq9lJY" />
+<input type="hidden" name="form_id" value="interface_ext_office_form" />
+</div></form><div class="service"><a href="/ro/tracking" class="track_and_trace">Track &amp; Trace</a><a href="/ro/tracking" class="go">go</a></div><div class="service"><a href="/ro/posta-calculator" class="calculator">Calculator tarife</a><a href="/ro/posta-calculator" class="go">go</a></div><div class="service last"><a href="/ro/claims" class="claims">Reclamații și petiții</a><a href="/ro/claims" class="go">go</a></div>  </div>
+</div>  </div>
+    </div>
+  </div>
+</div>
+<div class="front-zone">
+  <div class="main-wrapper clearfix">
+        <div class="main-content-wrapper">
+              <div id="breadcrumb"><h2 class="element-invisible">Eşti aici</h2><div class="breadcrumb"><a href="/ro">Acasă</a> » <a href="/ro" title="">Servicii on-line</a></div></div>
+                  <h1 class="page-title">Track&amp;Trace</h1>
+                          <div class="tabs">
+                  </div>
+                    <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div class="track-form">
+  <form action="/ro/tracking/ro/image_captcha?sid=33246825&amp;ts=1628441428" method="post" id="posta-tracking-main-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-tracking-id">
+  <label for="edit-tracking-id">Numărul trimiterii poştale <span class="form-required" title="Acest câmp este obligatoriu.">*</span></label>
+ <input type="text" id="edit-tracking-id" name="tracking_id" value="" size="20" maxlength="15" class="form-text required" />
+</div>
+<div class="captcha"><input type="hidden" name="captcha_sid" value="33246826" />
+<input type="hidden" name="captcha_token" value="2b7421c9fa522fb428ef5f6e8e1082d9" />
+<img typeof="foaf:Image" src="/ro/image_captcha?sid=33246826&amp;ts=1628441428" width="96" height="48" alt="Imagine CAPTCHA" title="Imagine CAPTCHA" /><div class="form-item form-type-textfield form-item-captcha-response">
+  <label for="edit-captcha-response">Introdu semnele din imagine <span class="form-required" title="Acest câmp este obligatoriu.">*</span></label>
+ <input type="text" id="edit-captcha-response" name="captcha_response" value="" size="15" maxlength="128" class="form-text required" />
+</div>
+</div><input type="submit" id="edit-submit" name="op" value="Trimite" class="form-submit" /><input type="hidden" name="form_build_id" value="form-O8rTgnHJWnpbL-tdYtD_JbeAmSMuxrUai2en15HxCwM" />
+<input type="hidden" name="form_id" value="posta_tracking_main_form" />
+</div></form></div>
+<div class="form-example">
+  <h2>
+	Numărul trimiterii poştale</h2>
+<div class="rtejustify">
+	<span style="font-size:12px;">Numerele <strong>trimiterilor poștale interne</strong> sunt compuse din 14 caractere (<em>ex. DS0123456789RR</em>), încep cu marcajul "<strong>D</strong>" și finalizează cu "<strong>RR</strong>", "<strong>CC</strong>", "<strong>AS</strong>" sau "<strong>AR</strong>". </span></div>
+<div class="rtejustify">
+	<span style="font-size:12px;">Numerele <strong>trimiterilor poștale internaționale</strong> sunt compuse din 13 caractere (<em>ex. EE123456789MD</em>), încep cu unul dintre marcajele "<strong>E</strong>", "<strong>C</strong>", “<strong>H</strong>",”M”, "<strong>R</strong>", "<strong>V</strong>" și finalizează cu marcajul "<strong>MD</strong>" sau cu codul tării de origine.</span></div>
+<div class="rtejustify">
+	 </div>
+</div>
+
+
+  </div>
+</div>
+  </div>
+    </div>
+      </div>
+</div>
+<div class="footer">
+  <div class="main-wrapper clearfix">
+    <div class="footer-menu">
+      <ul>
+        <li>
+            <div class="region region-footer-menu-left">
+    <div id="block-menu-block-3" class="block block-menu-block">
+
+    <h2>Servicii on-line</h2>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-menu-footer-ro parent-mlid-776 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-777 menu-link-level-2"><a href="/ro/postal_code.html">Coduri poștale</a></li>
+<li class="leaf active-trail menu-mlid-779 menu-link-level-2"><a href="/ro/tracking" class="active-trail active">Track&amp;Trace</a></li>
+<li class="leaf menu-mlid-780 menu-link-level-2"><a href="/ro/posta-calculator">Calculator tarife</a></li>
+<li class="last leaf menu-mlid-778 menu-link-level-2"><a href="/ro/claims">Petiții și reclamații</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+        </li>
+        <li>
+            <div class="region region-footer-menu-center">
+    <div id="block-menu-block-1" class="block block-menu-block">
+
+    <h2>Servicii poștale</h2>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-menu-footer-ro parent-mlid-762 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-763 menu-link-level-2"><a href="/ro/menu-link/1077">Scrisori</a></li>
+<li class="leaf menu-mlid-767 menu-link-level-2"><a href="/ro/plata-pensiilor-si-indemnizatiilor">Plata pensiilor</a></li>
+<li class="leaf menu-mlid-768 menu-link-level-2"><a href="/ro/menu-link/1532">Transferuri de bani</a></li>
+<li class="last leaf menu-mlid-765 menu-link-level-2"><a href="/ro/ems">Trimiteri EMS</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+        </li>
+        <li class="last">
+            <div class="region region-footer-menu-right">
+    <div id="block-menu-block-2" class="block block-menu-block">
+
+    <h2>Informații utile</h2>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-2 menu-name-menu-footer-ro parent-mlid-769 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-1439 menu-link-level-2"><a href="/ro/scrie-corect-adresa-pe-plic">Scrie corect adresa pe plic</a></li>
+<li class="leaf menu-mlid-771 menu-link-level-2"><a href="/ro/obiecte-neadmise-spre-expediere">Obiecte neadmise pentru expediere</a></li>
+<li class="last leaf menu-mlid-4307 menu-link-level-2"><a href="/ro/content/formulare">Formulare</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+        </li>
+      </ul>
+    </div>
+      <div class="region region-footer-blocks">
+    <div id="block-block-4" class="block block-block block-footer-contact">
+
+    <h2>Î.S. &quot;POȘTA MOLDOVEI&quot;</h2>
+  
+  <div class="content">
+    <div>
+	<span style="font-size:12px;">Suport clienți:<br />
+	tel.: +373  22 270 044</span></div>
+<div>
+	<span style="font-size:12px;"><a href="mailto:informatii@posta.md">informatii@posta.md</a></span></div>
+<div>
+	 </div>
+<p><span style="font-size:12px;">bd. Ștefan cel Mare și Sfânt, 134, MD-2012, mun. Chișinău, Moldova</span></p>
+  </div>
+</div>
+<div id="block-block-16" class="block block-block footer-upu-block">
+
+    
+  <div class="content">
+    <p class="rtecenter"><a class="upu-image-link" href="http://www.upu.int/en.html" target="_blank">upu</a></p>
+  </div>
+</div>
+<div id="block-interface-ext-social-links" class="block block-interface-ext social-links">
+
+    
+  <div class="content">
+    <div class="item-list"><ul><li class="first"><a href="/ro/rss.xml" class="share social rss">share</a></li>
+<li class="last"><a href="https://www.facebook.com/posta.moldovei" class="fb social">fb</a></li>
+</ul></div>  </div>
+</div>
+  </div>
+  </div>
+</div>
+</div>
+
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-72867719-1', 'auto');
+ga('send', 'pageview');
+
+ </script>
+
+
+  <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-72867719-1']);
+  _gaq.push(['_setDomainName', 'posta.md']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</body>
+</html>
